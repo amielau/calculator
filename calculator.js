@@ -24,5 +24,6 @@ reader.question("What would you like to calculate?", function (input){
         console.log(`Answer: ${Math.sqrt(num1)}`);
     }
     
+    // commit
     reader .close ()
 });
